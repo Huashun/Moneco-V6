@@ -1,4 +1,4 @@
-# Moneco-V6 Demonstration
+# Moneco Demonstration
 **MONECO Project** which consists of Mobile Application and Web Server is based on LAMP model.
 
 **MONECO Mobile Application** utilizes Java programming language to help users identify and locate species and gardens on  Monash Clayton campus. The application allows users to upload their sightings and to share observations as well. The application is a large part of MONECO Project.
