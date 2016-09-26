@@ -1,10 +1,14 @@
-# Moneco-V6
-Moneco Project Demonstration
-![alt tag] ()
+# Moneco-V6 Demonstration
+**MONECO Project** is based on LAMP model. 
+**MONECO Mobile Application** utilizes Java programming language to help users identify and locate species and gardens on Monash Clayton campus. The application allows users to upload their sightings and to share observations as well. The application is a large part of MONECO Project.
+
+Apache Httpd Server was used as **MONECO Web Server**. Users’ data are stored in MySQL on Server and the data are accessible by using PHP language. System environment of server is Linux. MVC pattern be used to develop this project.
 
 # Screenshots
 #### map intial screen
-#### map screen
+<img src="./app/src/main/res/raw/screenshots/1map1.png" width="270" height="445"/>
+#### species list in grid
+<img src="./app/src/main/res/raw/screenshots/2species list in grid1.png" width="270" height="445"/>
 
 # Credits
 I used [polygon-contains-point](https://github.com/sromku/polygon-contains-point) library and algorithm by Roman Kushnarenko as a polygon calculation method for development.<br/>
