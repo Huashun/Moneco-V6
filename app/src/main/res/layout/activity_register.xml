@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutRegister"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.liangchenzhou.moneco.Register">
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:textAlignment="center"
+            android:id="@+id/emailRegNow"
+            android:layout_width="300dp"
+            android:layout_marginRight="30dp"
+            android:layout_height="wrap_content"
+            android:hint="Email Address"
+            android:inputType="textEmailAddress"
+            app:met_baseColor="#d8767676"
+            app:met_errorColor="#303aa0"
+            app:met_floatingLabel="highlight"
+            app:met_floatingLabelText="Email Address"
+            app:met_iconLeft="@drawable/ic_email_outline_grey600_24dp"
+            app:met_primaryColor="#5a69b9"
+            app:met_singleLineEllipsis="true" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout3"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:textAlignment="center"
+            android:id="@+id/userNameRegNow"
+            android:layout_width="300dp"
+            android:layout_marginRight="30dp"
+            android:layout_height="wrap_content"
+            android:hint="User Name"
+            android:inputType="text"
+            app:met_baseColor="#d8767676"
+            app:met_errorColor="#303aa0"
+            app:met_floatingLabel="highlight"
+            app:met_floatingLabelText="User Name"
+            app:met_iconLeft="@drawable/ic_account_check_grey600_24dp"
+            app:met_primaryColor="#5a69b9"
+            app:met_singleLineEllipsis="true" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout6"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:textAlignment="center"
+            android:id="@+id/pwdRegNow"
+            android:layout_width="300dp"
+            android:layout_marginRight="30dp"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:inputType="textPassword"
+            app:met_baseColor="#d8767676"
+            app:met_errorColor="#303aa0"
+            app:met_floatingLabel="highlight"
+            app:met_floatingLabelText="Password"
+            app:met_iconLeft="@drawable/ic_key_plus_grey600_24dp"
+            app:met_primaryColor="#5a69b9"
+            app:met_singleLineEllipsis="true" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/linearLayout5"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:textAlignment="center"
+            android:id="@+id/confirmRegNow"
+            android:layout_width="300dp"
+            android:layout_marginRight="30dp"
+            android:layout_height="wrap_content"
+            android:hint="Confirm Passowrd"
+            android:inputType="textPassword"
+            app:met_baseColor="#d8767676"
+            app:met_errorColor="#303aa0"
+            app:met_floatingLabel="highlight"
+            app:met_floatingLabelText="Confirm Passowrd"
+            app:met_iconLeft="@drawable/ic_key_change_grey600_24dp"
+            app:met_primaryColor="#5a69b9"
+            app:met_singleLineEllipsis="true" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayoutKnowledge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/linearLayout4"
+        android:layout_marginTop="-5dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/checkBoxKnowledge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="false" />
+
+        <TextView
+            android:id="@+id/knowledgeText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="I agree to the terms and conditions" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonSubmitReg"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="230dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/linearLayoutKnowledge"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_border"
+        android:text="Register"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/regBackMain"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="230dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/buttonSubmitReg"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_regback_main"
+        android:text="Back"
+        android:textColor="#FFFFFF" />
+
+</RelativeLayout>

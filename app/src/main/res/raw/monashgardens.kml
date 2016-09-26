@@ -1,0 +1,626 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Monash Gardens</name>
+		<Placemark>
+			<name>Jock Marshall Reserve</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/FdR4SvjrRqFbY4UYwGuLjFeimu5NMtc1lpd5h-8lb7xPjFGbVSibjE_J4BjsH0KBmXjpKuQN1NLZGSHKGVZ_zbntw3_LU-U1h8DHMCvzmAxTnahyoZFQtMid" height="200" width="auto" /><br><br>Known previously as the Snake Gully Reserve, the Reserve was established by and named after the Foundation Chair of Zoology and Comparative Physiology Professor AJ 'Jock' Marshall in 1961.]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/FdR4SvjrRqFbY4UYwGuLjFeimu5NMtc1lpd5h-8lb7xPjFGbVSibjE_J4BjsH0KBmXjpKuQN1NLZGSHKGVZ_zbntw3_LU-U1h8DHMCvzmAxTnahyoZFQtMid</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1412848,-37.9085728,0.0 145.1402038,-37.9084712,0.0 145.1391148,-37.90836120000001,0.0 145.1386857,-37.9088691,0.0 145.1395655,-37.90975790000001,0.0 145.1404131,-37.9106806,0.0 145.140853,-37.9107557,0.0 145.1412848,-37.9085728,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Aboriginal Garden</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/EDjqNmyone5JZ-_FETZQcH-N2m8aUK-y85_9V0yZxBRhSoME6RxoMuB8lVXA6VGvq45HXf7t6AdyE5O_ABsRIxK8KvdfmqD_3w8X3Kz0jC8K5Hxza6Dp_CWLTCbP3ibSNeKV8w" height="200" width="auto" /><br><br>The Aboriginal garden was originally located at the front of Building 17 (Biology). It moved to its current location in 2007. It offers a display of over 150 plants of cultural significance to the Koori people of Southern Australia (used for food, medicine and tools). The Garden was designed by Dr Beth Gott from the School of Biological Sciences. The Mullum Mullum Scarred Tree was donated to Monash University in 1999. The scar in the tree was created by the Wurundjeri Balluk people of the Yarra Valley, when they cut the bark to make a shield.  ]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/EDjqNmyone5JZ-_FETZQcH-N2m8aUK-y85_9V0yZxBRhSoME6RxoMuB8lVXA6VGvq45HXf7t6AdyE5O_ABsRIxK8KvdfmqD_3w8X3Kz0jC8K5Hxza6Dp_CWLTCbP3ibSNeKV8w</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1371501,-37.90811359999999,0.0 145.1373342,-37.908105400000004,0.0 145.1375378,-37.90792849999999,0.0 145.137533,-37.9077126,0.0 145.1374506,-37.9076809,0.0 145.137303,-37.9077083,0.0 145.137242,-37.907670200000005,0.0 145.1372172,-37.9076015,0.0 145.1372118,-37.9075242,0.0 145.1370066,-37.9074787,0.0 145.1369664,-37.90774749999999,0.0 145.1369785,-37.907997300000005,0.0 145.1370261,-37.9081639,0.0 145.1371501,-37.90811359999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Kangaroo Paws Garden</name>
+			<description><![CDATA[Massed planting of the west Australian beauty Anigozanthus sp.]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1355059,-37.9079639,0.0 145.1355106,-37.90799350000001,0.0 145.13567760000004,-37.9080173,0.0 145.1357172,-37.9080448,0.0 145.1361798,-37.90811039999999,0.0 145.1362838,-37.9081258,0.0 145.136491,-37.9081951,0.0 145.13653190000002,-37.9081919,0.0 145.1362771,-37.9080776,0.0 145.1359023,-37.9080099,0.0 145.1355059,-37.9079639,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Monash Sustainability Institute Garden</name>
+			<description><![CDATA[Design based on the evolution of plants in Gondwanaland to the present. Features a Persimmon Tree (Diospyros kaki), Wollemi Pine (Wollemia nobilis), Gingko (Gingko biloba) and Giant fern (Angiopteris evecta).]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1383343,-37.9092267,0.0 145.1395708,-37.9077962,0.0 145.1394904,-37.9076519,0.0 145.1390719,-37.9076086,0.0 145.13909,-37.9075012,0.0 145.1389679,-37.907495,0.0 145.1389206,-37.9074309,0.0 145.13851,-37.9073778,0.0 145.1379602,-37.9073623,0.0 145.1376155,-37.9073497,0.0 145.1376155,-37.9071899,0.0 145.1372185,-37.9071401,0.0 145.1372427,-37.906973,0.0 145.1371622,-37.906956,0.0 145.1370174,-37.9074528,0.0 145.1372426,-37.9075031,0.0 145.1372481,-37.9076036,0.0 145.1372682,-37.9076559,0.0 145.1373198,-37.907689,0.0 145.1374663,-37.9076632,0.0 145.1375672,-37.9077031,0.0 145.1375632,-37.9079375,0.0 145.1373379,-37.9081285,0.0 145.1371555,-37.9081305,0.0 145.1370361,-37.9081834,0.0 145.1371354,-37.908666,0.0 145.1380152,-37.9084755,0.0 145.1383343,-37.9092267,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>West Gate Garden</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/H-aa345auqlIYlma5Aqls4qBUjyTVN_MmY71MX22zSnaQjaHH58oTvSKsYIKc0tiDKzgCe7--A8zK5gBKHS0uCJ2F1UwpPhWJHMWXavc1h4lT0QnndZ6a2r-ak1s0Y9eS9M" height="200" width="auto" /><br><br>Built in 1994 to house the broken steel members from the collapse of Victoria's West Gate Bridge. The plant selection in this garden is of species that tolerate wet conditions as well as hot dry spaces including small collections of She-oaks (Casuarina sp), Paperbarks (Melaleuca sp) and Emu bushes (Eremophila sp). The central focus of the garden is the ephemeral pond or ‘billabong’ that acts as an infiltration basin and water source for birds and frogs. ]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/H-aa345auqlIYlma5Aqls4qBUjyTVN_MmY71MX22zSnaQjaHH58oTvSKsYIKc0tiDKzgCe7--A8zK5gBKHS0uCJ2F1UwpPhWJHMWXavc1h4lT0QnndZ6a2r-ak1s0Y9eS9M</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1332864,-37.9102574,0.0 145.1332837,-37.910335700000005,0.0 145.1340723,-37.9105134,0.0 145.1343513,-37.910287,0.0 145.1332864,-37.9102574,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Engineering Courtyard</name>
+			<description><![CDATA[2007 Landscape Project with clear sustainability focus and water sensitive design incorporating a 67,000L underground water storage tank that collects rainwater for reuse, to the use of recycled and offcut granite pavers, to water-hardy, low maintenance plantings.]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1332703,-37.9096299,0.0 145.1332676,-37.9096828,0.0 145.1336196,-37.909687,0.0 145.1336177,-37.9097495,0.0 145.133609,-37.90984,0.0 145.1337206,-37.9098376,0.0 145.1337142,-37.9099029,0.0 145.1337773,-37.9099018,0.0 145.1337719,-37.9100531,0.0 145.1342279,-37.9100658,0.0 145.1342413,-37.9096294,0.0 145.1341152,-37.9096278,0.0 145.1341233,-37.9095527,0.0 145.1340314,-37.9096199,0.0 145.1340307,-37.9096521,0.0 145.1339597,-37.909649,0.0 145.1339516,-37.9097749,0.0 145.133737,-37.9097696,0.0 145.1337424,-37.909639399999996,0.0 145.1332703,-37.9096299,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Kenneth Hunt Garden</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/cs5uyNKbbwSQAQGNelZBafEm3U7mW1hVNV2uPV92kGMbgGbu3Y7uzNZeHKpWcryNhza2BdaRHGx-fhW6g24_HGXml0nwusKJsfWJTPh79kA-9-kWxGp8HaGuOYnLvkgr6XVxUZ7y" height="200" width="auto" /><br><br>Named after Prof Kenneth Hunt, first Dean of Engineering, who insisted on having an English-styled garden. The exotic garden was permitted against the backdrop of a policy of native only gardens because it was in an enclosed courtyard. The garden features Newton's Apple tree, "Flower of Kent" apple variety. This tree planted in 1975 by Sir Louis Matheson (Monash University's first Vice Chancellor) is a clone from the original tree from which Sir Isaac Newton reportedly observed an apple fall, instigation him to formulate his theories of motion and gravity.   ]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/cs5uyNKbbwSQAQGNelZBafEm3U7mW1hVNV2uPV92kGMbgGbu3Y7uzNZeHKpWcryNhza2BdaRHGx-fhW6g24_HGXml0nwusKJsfWJTPh79kA-9-kWxGp8HaGuOYnLvkgr6XVxUZ7y</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1331523,-37.9096436,0.0 145.1324696,-37.9096246,0.0 145.1324629,-37.9098077,0.0 145.1324529,-37.9099933,0.0 145.1331416,-37.91001820000001,0.0 145.1331523,-37.9096436,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>West Australian Garden</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/4CO9_8bVS7gt0FBhmowVNAc-U8Yt4CXkAk0KTp_7CumN6qmXYNA5ovDac3FcwYjKrnjetcPwDGULC3-tPOiz60Lm49Z9CimjFHNspdXyDhM7OctRBQxalXC18_kPAEoLnRu1gqL1HuvL" height="200" width="auto" /><br><br>Ground conditions vary from very dry to very wet with hot to cool shady places. The remaining plants from the 70’s and 80’s are principally from Western Australia with unusual species including Eucalyptus victrix and Corymbia torrelliana from as far as Cape York. The microclimates allow an interesting mix of both arid and forest species.]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/4CO9_8bVS7gt0FBhmowVNAc-U8Yt4CXkAk0KTp_7CumN6qmXYNA5ovDac3FcwYjKrnjetcPwDGULC3-tPOiz60Lm49Z9CimjFHNspdXyDhM7OctRBQxalXC18_kPAEoLnRu1gqL1HuvL</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1304225,-37.9074587,0.0 145.1302904,-37.90753159999999,0.0 145.1300812,-37.9086702,0.0 145.130277,-37.9087041,0.0 145.1302475,-37.9086469,0.0 145.1304681,-37.9075232,0.0 145.1305184,-37.907527400000006,0.0 145.1305244,-37.907493,0.0 145.1313173,-37.9075848,0.0 145.1314188,-37.907504800000005,0.0 145.1306089,-37.9074135,0.0 145.130524,-37.9074222,0.0 145.1304225,-37.9074587,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Innovation Walk BioBasin Garden</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/TcWFJ3n14eSwEzpI-2xZ8RlD-fmOIvjjvZNyvzQyTpHstjM5ncJ3sFMnojrjkbKBDpq7jr8ZKR30CznyZRxvAcp4CBFm9ETrzv09s28wB6MIS3w4q3TGR5SVFjDW5vDd" height="200" width="auto" /><br><br>The Innovation Walk BioBasin Garden has zones of native aquatic plants that will process stormwater and rainwater runoff for re-use.]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/TcWFJ3n14eSwEzpI-2xZ8RlD-fmOIvjjvZNyvzQyTpHstjM5ncJ3sFMnojrjkbKBDpq7jr8ZKR30CznyZRxvAcp4CBFm9ETrzv09s28wB6MIS3w4q3TGR5SVFjDW5vDd</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1294401,-37.9105748,0.0 145.1293463,-37.91103400000001,0.0 145.1296748,-37.9110689,0.0 145.1297646,-37.9106129,0.0 145.1294401,-37.9105748,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Systems Garden</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/G4HPjd9SjNaYv2EGc8lqeNKE0J3Z6kqg0d3J-95AB8iQL-G1283Q3OWY36lScBM42rbBlQCOnYzTGWXpmcdObQT0s8gyXRdrSMxi_LArAtR1voGPcdsubbaFeSXJjVfHnA" height="200" width="auto" /><br><br>Built around the 1970s by Robert McClure and Graeme McGregor. The garden earns its name from the biological term "Systematics" – the science dedicated to understanding the diversity of the living world. In this garden, the predominantly exotics plant species are grouped according to their families. In 2009, a 200,000L water tank was installed below the lawn to harvest rainwater for irrigating the whole garden as well as toilet-flushing in neighbouring building. ]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/G4HPjd9SjNaYv2EGc8lqeNKE0J3Z6kqg0d3J-95AB8iQL-G1283Q3OWY36lScBM42rbBlQCOnYzTGWXpmcdObQT0s8gyXRdrSMxi_LArAtR1voGPcdsubbaFeSXJjVfHnA</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1300369,-37.9116615,0.0 145.1300235,-37.911744,0.0 145.1299189,-37.9117313,0.0 145.1298988,-37.911802200000004,0.0 145.1308174,-37.9119228,0.0 145.130863,-37.9117016,0.0 145.1307845,-37.9116566,0.0 145.1308023,-37.9116337,0.0 145.1308442,-37.9114519,0.0 145.13021,-37.911373700000006,0.0 145.1301536,-37.911672,0.0 145.1300369,-37.9116615,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>The Rogan-En (Japanese Garden)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/LB4254Lm_s2aaR_KTNOQWqaJN0JogA4L8TYarZMIDEuc2Exh8Y2k-5EbWluB7vyHJe7yuI7YTRV30DYSg-YtBy5_ZMJlSYk1K1GczFes-cHq64grPtOLUYxGE2c" height="200" width="auto" /><br><br>Constructed in 1996 by Angyo Nurseries and master gardener Mr Hajime Watanabe for the Japanese Studies Centre. All materials were imported from Japan, even the rocks. The garden underwent a refresh in 2007 with the introduction of a few selected Australian natives, chosen for their similarity to Japanese plantings, and their greater tolerance to the Melbourne climate.]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/LB4254Lm_s2aaR_KTNOQWqaJN0JogA4L8TYarZMIDEuc2Exh8Y2k-5EbWluB7vyHJe7yuI7YTRV30DYSg-YtBy5_ZMJlSYk1K1GczFes-cHq64grPtOLUYxGE2c</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1304097,-37.9132803,0.0 145.1307437,-37.913366,0.0 145.1307732,-37.913276,0.0 145.130458,-37.9131978,0.0 145.1304272,-37.9132718,0.0 145.1304097,-37.9132803,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Rainforest Garden</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/YUPzCPSK7N28JPD8I6MTp4fzMh35qrmDfoJvDPLyK1ZqYc3-7pgYyeCXDQgqNHwy3KWbPeW6deL5XZP0RVIV-f3ycfo-XJFhosQUf-IwNMNR7OsEUNzeZbet0o-edYrmqbDAIg" height="200" width="auto" /><br><br>The Rainforest Garden contains rainforest flora from Tasmania to Cape York. It attempts to create a sub-tropical rainforest environment in the heart of the campus and provide some relief during hot summers. If you are looking for Rainforest trees and plants from S.E. Australia or for some Rainforest orchids (Thelychiton sp, Sarchochilus sp.), you’ll find them there. ]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/YUPzCPSK7N28JPD8I6MTp4fzMh35qrmDfoJvDPLyK1ZqYc3-7pgYyeCXDQgqNHwy3KWbPeW6deL5XZP0RVIV-f3ycfo-XJFhosQUf-IwNMNR7OsEUNzeZbet0o-edYrmqbDAIg</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1312935,-37.91209,0.0 145.1315015,-37.9122139,0.0 145.1315783,-37.9122861,0.0 145.1319905,-37.9121754,0.0 145.1320519,-37.9118873,0.0 145.1313458,-37.9114911,0.0 145.1313304,-37.9116022,0.0 145.1313951,-37.9116122,0.0 145.1313872,-37.9116649,0.0 145.1315778,-37.9116921,0.0 145.1315349,-37.9119397,0.0 145.1312158,-37.9119059,0.0 145.1311608,-37.9118963,0.0 145.1311447,-37.9119566,0.0 145.1313204,-37.9119799,0.0 145.1312935,-37.91209,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Forum Garden</name>
+			<description><![CDATA[The Forum was the scene of many a student & Union protests in the 1960s & 70s. The Campus Centre was previously the Union Building. The Menzies Building dominating that Garden, was named after Sir Robert Menzies, the Prime Minister who set in motion the political impetus that led to Monash becoming the second University in Victoria, in 1959. The Menzies Building was said to affect wind patterns for up to a 7km radius.]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1319842,-37.9122582,0.0 145.1340187,-37.9127618,0.0 145.1340656,-37.9126163,0.0 145.1347455,-37.9127671,0.0 145.1348555,-37.91248780000001,0.0 145.1343673,-37.9123661,0.0 145.1344264,-37.9122106,0.0 145.1337343,-37.91204760000001,0.0 145.1336191,-37.9122,0.0 145.1332888,-37.912111100000004,0.0 145.1333555,-37.91217460000001,0.0 145.1324589,-37.9120646,0.0 145.1320365,-37.9119989,0.0 145.1319842,-37.9122582,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Robert Blackwood Hall and Performing Arts Centre (PAC) Courtyard</name>
+			<description><![CDATA[The PAC Courtyard features minimalist planting. The Robert Blackwood Hall is where Graduation ceremonies and other public events are held. Its stained glass window called the ‘Lindesay Clark Window’ was created by Leonard French titled “Alpha & Omega”. The courtyard is framed by Spotted Gum trees (Corymbia maculata), the most dominant tree species on the Clayton Campus.]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1347455,-37.9127671,0.0 145.1346879,-37.912902599999995,0.0 145.1347536,-37.9130338,0.0 145.1349682,-37.91287080000001,0.0 145.1349199,-37.9128496,0.0 145.1350647,-37.91252380000001,0.0 145.1348555,-37.91248780000001,0.0 145.1347455,-37.9127671,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-62AF44-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1352458,-37.9116022,0.0 145.135117,-37.911945,0.0 145.1352068,-37.9119683,0.0 145.1353383,-37.9116223,0.0 145.1352458,-37.9116022,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Religious Garden</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/jdIlba6aJS2_8vLBKgA9CVAYlWtn557mUYe4dcancgok6SIcDkMsWLFTyrtpSHuHartCjtMpftfHrjsmmddvzBtYuGCb3qVtWiCDG571mdLo7_j341tuWBP5_KpdcB8ASGfzWNKHm7F9-w" height="200" width="auto" /><br><br>Originally designed in 1964 by Beryl Mann, this garden was replanted in 1996 to showcase different floral vignettes of a diverse range of low plants, from around Australia. The visual experience is one of constant change of mood and texture as you walk around the circular path. The Building sits within a ring of Pygmy Cypress Pine (Callitris oblonga) from Tasmania.]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/jdIlba6aJS2_8vLBKgA9CVAYlWtn557mUYe4dcancgok6SIcDkMsWLFTyrtpSHuHartCjtMpftfHrjsmmddvzBtYuGCb3qVtWiCDG571mdLo7_j341tuWBP5_KpdcB8ASGfzWNKHm7F9-w</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1340642,-37.911552500000006,0.0 145.1339382,-37.9115313,0.0 145.1337343,-37.91204760000001,0.0 145.1344264,-37.9122106,0.0 145.1346329,-37.9116773,0.0 145.1340642,-37.911552500000006,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sporting Ovals</name>
+			<description><![CDATA[Turf grass comprising Couch grass varieties ‘Santa Ana’ and ‘Conquest’ (Cynodon<br>dactylon), usually oversown with Rye during the winter months. ]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.13787570000002,-37.91043090000001,0.0 145.1372937,-37.9121809,0.0 145.1366915,-37.91371519999999,0.0 145.1368001,-37.9138971,0.0 145.1370174,-37.9140918,0.0 145.1376048,-37.9141797,0.0 145.1381922,-37.9141998,0.0 145.1386454,-37.9144611,0.0 145.1392261,-37.9146341,0.0 145.139721,-37.91459540000001,0.0 145.1400429,-37.914248400000005,0.0 145.1399571,-37.9133977,0.0 145.14054720000001,-37.9125153,0.0 145.1408154,-37.910972699999995,0.0 145.139882,-37.9108753,0.0 145.1397372,-37.9109959,0.0 145.1380553,-37.9103832,0.0 145.13787570000002,-37.91043090000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-62AF44-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1315081,-37.9107272,0.0 145.1314437,-37.9110446,0.0 145.1323101,-37.9111398,0.0 145.1323691,-37.9108499,0.0 145.1315081,-37.9107272,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Anatomy Courtyard</name>
+			<description><![CDATA[Originally designed by Grace Fraser in a circular form. Largely survived a ‘revamp’ in 1994. Very dry and planted with palms (e.g. Kentia palm), Grevilleas and a profusely flowering Buckinghamia.]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1300946,-37.9121471,0.0 145.1300517,-37.9124391,0.0 145.1303145,-37.91247090000001,0.0 145.1303735,-37.91218730000001,0.0 145.1300946,-37.9121471,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-62AF44-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1301697,-37.911959800000005,0.0 145.1301563,-37.9120339,0.0 145.1303722,-37.91205719999999,0.0 145.1303869,-37.9119842,0.0 145.1301697,-37.911959800000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-62AF44-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1308604,-37.9120423,0.0 145.1308201,-37.9122423,0.0 145.1311138,-37.9122794,0.0 145.1311138,-37.9122518,0.0 145.1310347,-37.9122423,0.0 145.1310709,-37.9120677,0.0 145.1308604,-37.9120423,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-62AF44-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1307839,-37.9124127,0.0 145.130745,-37.9126179,0.0 145.1309569,-37.9126402,0.0 145.1309972,-37.912437000000004,0.0 145.1307839,-37.9124127,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-62AF44-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1312265,-37.9124719,0.0 145.1311581,-37.9128116,0.0 145.1314759,-37.9128518,0.0 145.1315537,-37.912510000000005,0.0 145.1312265,-37.9124719,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-62AF44-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.132463,-37.9131607,0.0 145.1326185,-37.9132602,0.0 145.1326534,-37.9131586,0.0 145.1329833,-37.9132432,0.0 145.1329324,-37.9133744,0.0 145.133155,-37.9134337,0.0 145.1334259,-37.9127883,0.0 145.1328814,-37.9126571,0.0 145.1328653,-37.9127248,0.0 145.1329565,-37.9128772,0.0 145.1328868,-37.9128941,0.0 145.1327983,-37.9127714,0.0 145.1327205,-37.9129576,0.0 145.132463,-37.9131607,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-62AF44-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1338953,-37.9134147,0.0 145.1336271,-37.9138506,0.0 145.1338792,-37.913914,0.0 145.1339489,-37.9137278,0.0 145.1342131,-37.9137955,0.0 145.1343285,-37.9135099,0.0 145.1338953,-37.9134147,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Vera Moore Garden</name>
+			<description><![CDATA[Small garden with a couple of Illawara Flame Trees (Brachychiton acerifolius) trees, quite a common planting around the Clayton Campus]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1349145,-37.9119418,0.0 145.1348421,-37.912128,0.0 145.1350781,-37.9121873,0.0 145.1351613,-37.9119588,0.0 145.1350969,-37.9119439,0.0 145.135113,-37.91191010000001,0.0 145.1350325,-37.911891,0.0 145.1350084,-37.911963,0.0 145.1349145,-37.9119418,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Post-Graduate Courtyard</name>
+			<description><![CDATA[An interesting garden showcasing some ‘tough as old boots’ natives once<br>established, like the Woolly Bush (Adenanthos sericeus), Melaleuca armillaris ‘Green Globe’ and<br>Banksias.]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1347858,-37.9114128,0.0 145.1347026,-37.9117408,0.0 145.1348957,-37.911781,0.0 145.1349065,-37.9117471,0.0 145.1350486,-37.9117789,0.0 145.1351371,-37.911567299999994,0.0 145.134995,-37.9115355,0.0 145.1350272,-37.911450900000006,0.0 145.1347858,-37.9114128,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-62AF44-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1351004,-37.9113652,0.0 145.1363964,-37.9115455,0.0 145.1366374,-37.9103425,0.0 145.1358854,-37.9102522,0.0 145.1350826,-37.9101807,0.0 145.1347342,-37.9101816,0.0 145.134399,-37.9104031,0.0 145.134272,-37.9105254,0.0 145.1342046,-37.9107137,0.0 145.1341998,-37.911264,0.0 145.1351004,-37.9113652,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1353127,-37.9110566,0.0 145.135591,-37.9111831,0.0 145.1362012,-37.911309,0.0 145.1362891,-37.9110248,0.0 145.1363189,-37.9108051,0.0 145.13614,-37.9108386,0.0 145.1360649,-37.9111579,0.0 145.1354057,-37.910948,0.0 145.1353127,-37.9110566,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1352361,-37.9109181,0.0 145.1354057,-37.910948,0.0 145.1353425,-37.9109167,0.0 145.1352137,-37.9109011,0.0 145.1351356,-37.9107774,0.0 145.134903,-37.9109141,0.0 145.1345452,-37.9110415,0.0 145.1345777,-37.9106613,0.0 145.1343983,-37.9106523,0.0 145.1343381,-37.9111442,0.0 145.1346596,-37.9111701,0.0 145.1352168,-37.9109173,0.0 145.1351004,-37.9113652,0.0 145.1352361,-37.9109181,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-62AF44-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1318875,-37.91241959999999,0.0 145.1317832,-37.9126641,0.0 145.1323316,-37.9127982,0.0 145.1324955,-37.9125583,0.0 145.1318875,-37.91241959999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Science Garden</name>
+			<styleUrl>#poly-62AF44-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1310232,-37.91030700000001,0.0 145.1309577,-37.9106291,0.0 145.1312557,-37.910673800000005,0.0 145.1313302,-37.9103375,0.0 145.1310232,-37.91030700000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Recreational Garden</name>
+			<description><![CDATA[BBQ and table area]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1304182,-37.9102646,0.0 145.1303527,-37.91056329999999,0.0 145.1306298,-37.91059619999999,0.0 145.1306924,-37.9102976,0.0 145.1304182,-37.9102646,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-62AF44-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1403332,-37.9070971,0.0 145.1402736,-37.9073723,0.0 145.1407564,-37.9074216,0.0 145.1408994,-37.9071465,0.0 145.1410231,-37.9071533,0.0 145.1410574,-37.9070284,0.0 145.1406729,-37.9069737,0.0 145.1406432,-37.9071371,0.0 145.1403332,-37.9070971,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-62AF44-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1390594,-37.9071256,0.0 145.1390087,-37.9073478,0.0 145.1389655,-37.907339,0.0 145.138929,-37.9074122,0.0 145.1389819,-37.9074759,0.0 145.139426,-37.9075323,0.0 145.1394886,-37.9071773,0.0 145.1390594,-37.9071256,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#poly-62AF44-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1371846,-37.9069156,0.0 145.137268,-37.9070449,0.0 145.1376078,-37.9070496,0.0 145.1376316,-37.9070026,0.0 145.1377717,-37.9070096,0.0 145.1377598,-37.9071766,0.0 145.1379684,-37.9071837,0.0 145.1379602,-37.9073623,0.0 145.13851,-37.9073778,0.0 145.1385167,-37.9072542,0.0 145.1388714,-37.9073012,0.0 145.1389071,-37.907106,0.0 145.1386717,-37.9070637,0.0 145.1387194,-37.9067933,0.0 145.138478,-37.9067651,0.0 145.1385197,-37.9064641,0.0 145.1386151,-37.9063301,0.0 145.1374915,-37.9062219,0.0 145.1373604,-37.906316,0.0 145.1371846,-37.9069156,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Lemon Scented Lawns</name>
+			<description><![CDATA[Copse of Lemon Scented Gums (Corymbia citriodora), Kikuyu lawns (Pennisetum clandestinum).]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1328182,-37.9105828,0.0 145.1327467,-37.9108744,0.0 145.1324481,-37.9108537,0.0 145.1327646,-37.9113587,0.0 145.1329017,-37.9112835,0.0 145.1333666,-37.9114104,0.0 145.1335096,-37.9110389,0.0 145.1336646,-37.9110813,0.0 145.1338434,-37.9105922,0.0 145.1329851,-37.9104511,0.0 145.1329494,-37.910564,0.0 145.1328182,-37.9105828,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>BioMed Garden</name>
+			<styleUrl>#poly-62AF44-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1294118,-37.9114617,0.0 145.1287186,-37.9114636,0.0 145.1286864,-37.9115736,0.0 145.1294088,-37.9116428,0.0 145.1294118,-37.9114617,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Permaculture Garden</name>
+			<description><![CDATA[The Monash Permaculture Garden is an initiative run by Monash students. The Garden seek to promote sustainable living practices by engaging students, staff and local<br>neighbours of the University in organic food production and permaculture design principles.]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1318729,-37.911766199999995,0.0 145.1320311,-37.9115969,0.0 145.131948,-37.9115461,0.0 145.1317951,-37.911715400000006,0.0 145.1318729,-37.911766199999995,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Earth Sciences Garden </name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/XP17kDIBwwbzUH46TyIWMQa5WysbcYoQrlOrFJ039ZZ2htLm_ErKei7aK5aXFpvTgrzL3vBqEQMAIC13Uq_ytcxlAG31htBPnyvfxDsSebm-NSudTlOxTc8awv71ng" height="200" width="auto" /><br><br>Arrangement of nearly 500 rock specimens, weighing up to 14 tons, laid out to represent a pattern of rock outcrops and set amongst beautiful native plants representing each geographical region. The rock specimens represent a variety of igneous, sedimentary and metamorphic rocks found in Victoria and range from large, black 'bombs' from an 8,000-year-old volcano near Colac, to spectacular 400-million-year-old fossiliferous limestone from Buchan in eastern Victoria.]]></description>
+			<styleUrl>#poly-62AF44-1-76</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/XP17kDIBwwbzUH46TyIWMQa5WysbcYoQrlOrFJ039ZZ2htLm_ErKei7aK5aXFpvTgrzL3vBqEQMAIC13Uq_ytcxlAG31htBPnyvfxDsSebm-NSudTlOxTc8awv71ng</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1312506,-37.9097156,0.0 145.1312667,-37.90962249999999,0.0 145.1311621,-37.9096056,0.0 145.1311702,-37.9095844,0.0 145.131079,-37.9095675,0.0 145.1310682,-37.90946590000001,0.0 145.1310951,-37.9093749,0.0 145.1307732,-37.9093389,0.0 145.1299551,-37.9092437,0.0 145.1299202,-37.909406600000004,0.0 145.1300758,-37.90953569999999,0.0 145.1302502,-37.9095548,0.0 145.1304245,-37.9094934,0.0 145.1305103,-37.9096796,0.0 145.1306176,-37.9096987,0.0 145.1307088,-37.9095844,0.0 145.1310709,-37.90962879999999,0.0 145.1312506,-37.9097156,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-62AF44-1-76-normal'>
+			<LineStyle>
+				<color>ff44AF62</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C44AF62</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-62AF44-1-76-highlight'>
+			<LineStyle>
+				<color>ff44AF62</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C44AF62</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-62AF44-1-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-62AF44-1-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-62AF44-1-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-62AF44-1-76-nodesc-normal'>
+			<LineStyle>
+				<color>ff44AF62</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C44AF62</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-62AF44-1-76-nodesc-highlight'>
+			<LineStyle>
+				<color>ff44AF62</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C44AF62</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-62AF44-1-76-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-62AF44-1-76-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-62AF44-1-76-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

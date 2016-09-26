@@ -1,0 +1,159 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mapRelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/line1"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <EditText
+            android:id="@+id/editView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_weight="0.25"
+            android:hint="Enter your keyword"
+            android:imeOptions="actionSearch"
+            android:singleLine="true"
+            android:textSize="12dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.75"
+            android:onClick="searchBox"
+            android:shadowColor="@color/highlighted_text_material_dark"
+            android:text="search"
+            android:textColor="@color/abc_input_method_navigation_guard" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/linearLayout8"
+        android:layout_width="match_parent"
+        android:layout_height="420dp"
+        android:layout_above="@+id/HomeNavigation"
+        android:layout_below="@id/line1"
+        android:layout_centerHorizontal="true">
+
+        <fragment
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            tools:context="com.example.liangchenzhou.moneco.MapsActivity" />
+
+        <ImageButton
+            android:id="@+id/gridSwitch"
+            android:layout_width="39dp"
+            android:layout_height="39dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="11dp"
+            android:layout_marginTop="61dp"
+            android:adjustViewBounds="true"
+            android:background="@drawable/gridswitch_shape"
+            android:elevation="1dp"
+            android:scaleType="fitXY" />
+
+        <ImageButton
+            android:id="@+id/uploadMapButton"
+            android:layout_width="39dp"
+            android:layout_height="39dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="11dp"
+            android:layout_marginTop="61dp"
+            android:adjustViewBounds="true"
+            android:background="@drawable/gridswitch_shape"
+            android:elevation="1dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_binoculars_black_24dp" />
+
+        <ImageButton
+            android:id="@+id/circleNearby"
+            android:layout_width="39dp"
+            android:layout_height="39dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="11dp"
+            android:layout_marginTop="111dp"
+            android:adjustViewBounds="true"
+            android:background="@drawable/gridswitch_shape"
+            android:elevation="1dp"
+            android:scaleType="fitXY" />
+
+        <ImageButton
+            android:id="@+id/monitor"
+            android:layout_width="39dp"
+            android:layout_height="39dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="11dp"
+            android:layout_marginTop="111dp"
+            android:adjustViewBounds="true"
+            android:background="@drawable/gridswitch_shape"
+            android:elevation="1dp"
+            android:scaleType="fitXY" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/HomeNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#4658b8"
+        android:orientation="horizontal"
+        android:weightSum="0.9">
+
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="150px"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="50px"
+            android:layout_weight="0.3"
+            android:background="#00000000"
+            android:onClick="home"
+            android:src="@drawable/ic_action_home" />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="150px"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="50px"
+            android:layout_toEndOf="@+id/imageButton"
+            android:layout_toRightOf="@+id/imageButton"
+            android:layout_weight="0.3"
+            android:background="#00000000"
+            android:onClick="search"
+            android:src="@drawable/ic_action_search" />
+
+        <ImageButton
+            android:id="@+id/imageButton4"
+            android:layout_width="150px"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="50px"
+            android:layout_marginRight="50px"
+            android:layout_toEndOf="@+id/imageButton3"
+            android:layout_toRightOf="@+id/imageButton3"
+            android:layout_weight="0.3"
+            android:background="#00000000"
+            android:onClick="login"
+            android:src="@drawable/ic_action_user" />
+    </LinearLayout>
+
+</RelativeLayout>
+

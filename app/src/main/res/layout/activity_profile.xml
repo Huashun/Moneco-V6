@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:windowSoftInputMode="adjustPan"
+    tools:context="com.ecocampus.monash.moneco.ProfileActivity">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4658b8"
+        android:layout_alignParentBottom="true"
+        android:weightSum="0.9"
+        android:id="@+id/linearLayout7">
+
+        <ImageButton
+            android:layout_width="150px"
+            android:layout_marginLeft="50px"
+            android:layout_weight="0.3"
+            android:layout_height="match_parent"
+            android:id="@+id/imageButton5"
+            android:src="@drawable/ic_action_home"
+            android:background="#00000000"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:onClick="home" />
+
+        <ImageButton
+            android:layout_width="150px"
+            android:layout_height="match_parent"
+            android:id="@+id/imageButton6"
+            android:src="@drawable/ic_action_search"
+            android:background="#00000000"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="50px"
+            android:layout_toRightOf="@+id/imageButton5"
+            android:layout_toEndOf="@+id/imageButton5"
+            android:onClick="search"
+            android:layout_weight="0.3" />
+
+        <ImageButton
+            android:layout_width="150px"
+            android:layout_height="match_parent"
+            android:id="@+id/imageButton8"
+            android:layout_marginLeft="50px"
+            android:layout_marginRight="50px"
+            android:src="@drawable/ic_action_user"
+            android:background="#00000000"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/imageButton7"
+            android:layout_toEndOf="@+id/imageButton7"
+            android:onClick="login"
+            android:layout_weight="0.3" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_above="@+id/linearLayout7"
+        android:layout_alignParentTop="true">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="400px"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal">
+
+                <TextView
+                    android:layout_width="300px"
+                    android:layout_height="match_parent"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="User Name:"
+                    android:layout_marginLeft="30px"
+                    android:id="@+id/textView6"
+                    android:textColor="@color/abc_primary_text_disable_only_material_light"
+                    android:gravity="center_vertical" />
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_marginRight="20dp"
+                    android:layout_height="match_parent"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:id="@+id/profileUserName" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="300px"
+                    android:layout_height="match_parent"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:layout_marginLeft="30px"
+                    android:id="@+id/textView8"
+                    android:textColor="@color/abc_primary_text_disable_only_material_light"
+                    android:gravity="center_vertical"
+                    android:text="Passowrd:" />
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_marginRight="20dp"
+                    android:layout_height="match_parent"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:id="@+id/profilePassword"
+                    android:onClick="changeUsername"
+                    android:clickable="true" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:weightSum="1"
+                android:gravity="left">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_weight="0.3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <Button
+                        android:layout_width="230px"
+                        android:layout_height="wrap_content"
+                        android:text="Edit"
+                        android:layout_marginLeft="5dp"
+                        android:id="@+id/userEdit" />
+
+                    <Button
+                        style="?android:attr/buttonStyleSmall"
+                        android:layout_marginLeft="5dp"
+                        android:layout_width="230px"
+                        android:layout_height="match_parent"
+                        android:text="Save"
+                        android:id="@+id/userSave" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_weight="0.7"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginRight="25dp"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:id="@+id/logoutControl"
+                        android:gravity="center_vertical|right" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="43dp" >
+
+            <TextView
+                android:layout_marginLeft="30px"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Favorites"
+                android:id="@+id/textView10"
+                android:gravity="center_vertical"
+                android:textColor="#3037a3" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal">
+            <ListView
+                android:layout_width="match_parent"
+                android:layout_height="129dp"
+                android:id="@+id/display_favo"></ListView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="43dp">
+
+            <TextView
+                android:layout_marginLeft="30px"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Last 10 Observation History"
+                android:id="@+id/textView9"
+                android:gravity="center_vertical"
+                android:textStyle="bold"
+                android:textColor="#3037a3" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal">
+
+            <ListView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/listViewHistory"
+                android:layout_gravity="center_horizontal" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

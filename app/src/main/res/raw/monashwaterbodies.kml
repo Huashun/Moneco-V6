@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Monash Water Bodies</name>
+		<Placemark>
+			<name>Jock Marshall Reserve Retarding Basin</name>
+			<description><![CDATA[The treatment wetland works as an excellent teaching tool. Students are able to study the outcomes of a functional biological filtration wetland and its positive effects on stormwater pollutants.]]></description>
+			<styleUrl>#poly-4186F0-1-181</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1399477,-37.9097886,0.0 145.1399075,-37.9097878,0.0 145.1398478,-37.9098273,0.0 145.1398304,-37.9099046,0.0 145.1398568,-37.909975100000004,0.0 145.1399128,-37.9100436,0.0 145.1399353,-37.9100735,0.0 145.139998,-37.9101256,0.0 145.1400603,-37.9101653,0.0 145.1401515,-37.9101711,0.0 145.1401797,-37.91015260000001,0.0 145.1402132,-37.9101433,0.0 145.1402575,-37.9101393,0.0 145.1402876,-37.9100774,0.0 145.1403835,-37.9100203,0.0 145.1404358,-37.9099537,0.0 145.1405299,-37.9098749,0.0 145.1405602,-37.9098341,0.0 145.1405506,-37.9097822,0.0 145.1404868,-37.90972670000001,0.0 145.1404278,-37.9096901,0.0 145.1403265,-37.9096986,0.0 145.1402301,-37.9096386,0.0 145.1401894,-37.9096304,0.0 145.1401562,-37.9096363,0.0 145.1401319,-37.9096582,0.0 145.1401224,-37.9096897,0.0 145.14013010000002,-37.90972090000001,0.0 145.1401163,-37.9097436,0.0 145.1400985,-37.9097515,0.0 145.1400657,-37.9097441,0.0 145.1400309,-37.9097521,0.0 145.1399732,-37.9097939,0.0 145.1399477,-37.9097886,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Centre lake (Retarding Basin)</name>
+			<description><![CDATA[Dandenong Valley Authority Lake-flood retention basin. This lake is part of the campus’ stormwater capture system. Water from the lake is used to irrigate the sports ovals, saving up to 30 million litres of drinking water per year. The lake also provides passive cooling for heat exchange coils to the Monash Sustainability Institute.]]></description>
+			<styleUrl>#poly-4186F0-1-181</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1377041,-37.9076755,0.0 145.1376484,-37.90768460000001,0.0 145.1375525,-37.90773579999999,0.0 145.1375001,-37.9078141,0.0 145.1375002,-37.90788500000001,0.0 145.1376008,-37.90801200000001,0.0 145.1377496,-37.9081252,0.0 145.1379199,-37.90821880000001,0.0 145.1380259,-37.9082522,0.0 145.1382512,-37.9083062,0.0 145.1384979,-37.9083199,0.0 145.1385516,-37.9083025,0.0 145.138573,-37.9082681,0.0 145.1385489,-37.908234300000004,0.0 145.1384752,-37.9081972,0.0 145.1383974,-37.9081771,0.0 145.1383075,-37.9081046,0.0 145.1382485,-37.9080299,0.0 145.1382391,-37.9079353,0.0 145.1382029,-37.90783210000001,0.0 145.1381285,-37.9077845,0.0 145.137975,-37.9077285,0.0 145.1377751,-37.9076713,0.0 145.1377041,-37.9076755,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Forum Pond</name>
+			<description><![CDATA[The water in this pond is topped up from non-drinkable sources including rainfall runoff from sections of the nearby Matheson Library.]]></description>
+			<styleUrl>#poly-4186F0-1-181</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1336632,-37.912424300000005,0.0 145.1336847,-37.9124603,0.0 145.1336774,-37.9124746,0.0 145.1336479,-37.9124921,0.0 145.1336231,-37.9125121,0.0 145.1336318,-37.9125438,0.0 145.1336465,-37.9125576,0.0 145.1336807,-37.912568699999994,0.0 145.1337183,-37.9125676,0.0 145.1337317,-37.9125433,0.0 145.1337471,-37.9125306,0.0 145.1337839,-37.9125069,0.0 145.1338376,-37.9125174,0.0 145.1338376,-37.9125941,0.0 145.1338544,-37.91263060000001,0.0 145.13391,-37.91265020000001,0.0 145.1339583,-37.9126454,0.0 145.1339731,-37.9126301,0.0 145.1339738,-37.9126094,0.0 145.1339939,-37.9125528,0.0 145.1340401,-37.912526400000004,0.0 145.1340515,-37.9125089,0.0 145.1340522,-37.912497800000004,0.0 145.1340361,-37.9124862,0.0 145.1340193,-37.91248720000001,0.0 145.1339965,-37.9124841,0.0 145.1339141,-37.9124497,0.0 145.1338939,-37.9124434,0.0 145.1338591,-37.9124528,0.0 145.1338463,-37.9124629,0.0 145.133845,-37.9124867,0.0 145.1338343,-37.9124989,0.0 145.1337934,-37.9124888,0.0 145.13377120000004,-37.9124745,0.0 145.1337518,-37.9124264,0.0 145.1337491,-37.9124101,0.0 145.133731,-37.912401499999994,0.0 145.1336941,-37.9124021,0.0 145.1336632,-37.912424300000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Systems Garden Pond</name>
+			<styleUrl>#poly-4186F0-1-181-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1304258,-37.91153609999999,0.0 145.1304111,-37.9115466,0.0 145.1303956,-37.911571,0.0 145.130399,-37.9115905,0.0 145.1304097,-37.911618,0.0 145.1304285,-37.911641800000005,0.0 145.1304553,-37.9116487,0.0 145.1304942,-37.911644,0.0 145.1305157,-37.911626999999996,0.0 145.1305351,-37.9115969,0.0 145.1305398,-37.9115715,0.0 145.1305304,-37.9115503,0.0 145.1305036,-37.9115344,0.0 145.1304761,-37.9115292,0.0 145.1304453,-37.9115286,0.0 145.1304258,-37.91153609999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>West Gate Bridge Billabong</name>
+			<styleUrl>#poly-4186F0-1-181-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.134069,-37.9103563,0.0 145.134075,-37.9103954,0.0 145.134073,-37.9104214,0.0 145.1340757,-37.9104372,0.0 145.134083,-37.9104356,0.0 145.1340938,-37.9104039,0.0 145.1341132,-37.9103743,0.0 145.1341206,-37.910358900000006,0.0 145.1340964,-37.9103611,0.0 145.134069,-37.9103563,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Vera Moore garden Pond</name>
+			<styleUrl>#poly-4186F0-1-181-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1349427,-37.911986799999994,0.0 145.1350111,-37.91206510000001,0.0 145.1350822,-37.9120249,0.0 145.1350453,-37.9120164,0.0 145.1349789,-37.91200059999999,0.0 145.1349427,-37.911986799999994,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>South-East Pond</name>
+			<styleUrl>#poly-4186F0-1-181-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.138219,-37.9145954,0.0 145.1381412,-37.9152599,0.0 145.1382378,-37.9152937,0.0 145.1383263,-37.9152895,0.0 145.1383745,-37.91519,0.0 145.1383933,-37.9148049,0.0 145.1382968,-37.9146187,0.0 145.138219,-37.9145954,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Innovation Walk Bio-basin (Research)</name>
+			<description><![CDATA[Monash University has strong commitment to water conservation.<br>Since 2006 the University has reduced potable water consumption by more than 20%. The main areas of water usage at Monash are domestic use (toilets, showers, hand basins and kitchens), laboratories, cooling towers and grounds irrigation. Savings have been achieved by upgrading plumbing fittings, implementing a permanent water saving strategy and installing innovative rain and storm water harvesting systems. In this Garden the Basin is getting rain water.]]></description>
+			<styleUrl>#poly-4186F0-1-181</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1294348,-37.9106372,0.0 145.1293932,-37.91087,0.0 145.1295594,-37.9108837,0.0 145.1295983,-37.910687,0.0 145.1294348,-37.9106372,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Science Pond</name>
+			<styleUrl>#poly-4186F0-1-181-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.131209,-37.9104563,0.0 145.1311976,-37.9105055,0.0 145.1311567,-37.9104975,0.0 145.1311272,-37.9104975,0.0 145.1311474,-37.9105261,0.0 145.1311702,-37.9105409,0.0 145.1312667,-37.9105187,0.0 145.1312774,-37.9104997,0.0 145.1312399,-37.9104573,0.0 145.131209,-37.9104563,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Earth Sciences Billabong</name>
+			<styleUrl>#poly-4186F0-1-181-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1308161,-37.9094807,0.0 145.1308617,-37.9094807,0.0 145.1309073,-37.9094976,0.0 145.130918,-37.9095294,0.0 145.1309395,-37.9095505,0.0 145.1309663,-37.9095336,0.0 145.1309475,-37.9094913,0.0 145.1308966,-37.9094595,0.0 145.1308537,-37.9094511,0.0 145.1308161,-37.9094807,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>JMSS Billabong</name>
+			<styleUrl>#poly-4186F0-1-181-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1283294,-37.9143006,0.0 145.1282886,-37.9143278,0.0 145.1282617,-37.9143339,0.0 145.1283026,-37.914343,0.0 145.1283448,-37.9143278,0.0 145.1283524,-37.9142926,0.0 145.1283294,-37.9143006,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Water Feature</name>
+			<styleUrl>#poly-4186F0-1-181-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>145.1361813,-37.9103567,0.0 145.1360791,-37.9104373,0.0 145.1363243,-37.9104696,0.0 145.1364163,-37.9103809,0.0 145.1361813,-37.9103567,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='icon-503-4186F0-nodesc-normal'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-4186F0-nodesc-highlight'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-4186F0-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-4186F0-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-4186F0-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-4186F0-1-181-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>B5F08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-4186F0-1-181-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>B5F08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-4186F0-1-181'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-4186F0-1-181-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-4186F0-1-181-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-4186F0-1-181-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>B5F08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-4186F0-1-181-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>B5F08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-4186F0-1-181-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-4186F0-1-181-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-4186F0-1-181-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
