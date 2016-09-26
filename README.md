@@ -3,8 +3,10 @@ Moneco Project Demonstration
 ![alt tag] ()
 
 # Credits
-I used [polygon-contains-point](https://github.com/sromku/polygon-contains-point) library by Roman Kushnarenko as a base for development.
-I used [polygon-contains-point](https://github.com/sromku/polygon-contains-point) library by Roman Kushnarenko as a base for development.
+I used [polygon-contains-point](https://github.com/sromku/polygon-contains-point) library and algorithm by Roman Kushnarenko as a polygon calculation method for development.<br/>
+I used [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) library by jack wang as a part of UI design for development.<br/>
+I used [android-process-button](https://github.com/dmytrodanylyk/android-process-button/wiki/User-Guide) library by Dmytro Danylyk as a part of UI design for development.<br/>
+I used [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) library by rengwuxian as a part of UI design for development.
 
 # License
    Copyright {2016} {Liangchen Zhou, Huashun Li}
