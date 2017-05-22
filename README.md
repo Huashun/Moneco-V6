@@ -8,7 +8,7 @@ Apache Httpd Server was used as **MONECO Web Server**. Users’ data are stored 
 # Screenshots of Mobile Application
 #### • `map intial screen`
 <img src="./app/src/main/res/raw/screenshots/1map1.png" width="270" height="445"/>
-* `species list in grid` | `popup information when tap specific grid` | `monitor current area`
+•`species list in grid` | `popup information when tap specific grid` | `monitor current area`
 #### • `species list in grid` | `popup information when tap specific grid` | `monitor current area`
 <img src="./app/src/main/res/raw/screenshots/2species list in grid1.png" width="270" height="445"/>
 <img src="./app/src/main/res/raw/screenshots/3_1species list in grid2.png" width="270" height="445"/>
