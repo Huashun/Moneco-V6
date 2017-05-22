@@ -6,7 +6,7 @@
 Apache Httpd Server was used as **MONECO Web Server**. Users’ data are stored in MySQL on Server and the data are accessible by using PHP language. System environment of server is Linux. MVC pattern be used to develop this project.
 
 # Screenshots of Mobile Application
-#### • `map intial screen`
+#### • `loading screen`
 <img src="./app/src/main/res/raw/screenshots/start.png" width="270" height="445"/>
 
 #### • `map intial screen`
