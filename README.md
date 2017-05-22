@@ -62,7 +62,6 @@ Apache Httpd Server was used as **MONECO Web Server**. Users’ data are stored 
 #### • `user profile` | `delete favorite record` | `view upload history`
 <img src="./app/src/main/res/raw/screenshots/17user profile.png" width="270" height="445"/>
 <img src="./app/src/main/res/raw/screenshots/18delete favorite record.png" width="270" height="445"/>
-<img src="./app/src/main/res/raw/screenshots/19view upload history screen.png" width="270" height="445"/>
 
 #### • `uploadObservation with image and audio`
 <img src="./app/src/main/res/raw/screenshots/20uploadObservation with image and audio.png" width="270" height="445"/>
