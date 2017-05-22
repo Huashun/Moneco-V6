@@ -7,46 +7,50 @@ Apache Httpd Server was used as **MONECO Web Server**. Users’ data are stored 
 
 # Screenshots of Mobile Application
 #### • `map intial screen`
-<img src="./app/src/main/res/raw/screenshots/1map1.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/start.png" width="270" height="445"/>
+
+#### • `map intial screen`
+<img src="./app/src/main/res/raw/screenshots/mapintialscreen.png" width="270" height="445"/>
 
 #### • `species list in grid` | `popup information when tap specific grid` | `monitor current area`
-<img src="./app/src/main/res/raw/screenshots/2species list in grid1.png" width="270" height="445"/>
-<img src="./app/src/main/res/raw/screenshots/3_1species list in grid2.png" width="270" height="445"/>
-<img src="./app/src/main/res/raw/screenshots/3_2monitor area.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/grid1.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/grid21.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/grid22.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/notify.png" width="270" height="445"/>
 
 #### • `nearby species`
-<img src="./app/src/main/res/raw/screenshots/4nearby species.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/nearby.png" width="270" height="445"/>
 
 #### • `search screen`
-<img src="./app/src/main/res/raw/screenshots/4seach.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/search.png" width="270" height="445"/>
 
 #### • `garden on map`
-<img src="./app/src/main/res/raw/screenshots/5garden1.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/gardenmap.png" width="270" height="445"/>
 
 #### • `garden display`
-<img src="./app/src/main/res/raw/screenshots/6garden2.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/gardendisplay.png" width="270" height="445"/>
 
 #### • `garden entrances`
-<img src="./app/src/main/res/raw/screenshots/9garden entrance.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/entry.png" width="270" height="445"/>
 
 #### • `water ponds`
-<img src="./app/src/main/res/raw/screenshots/7water ponds.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/waterpond.png" width="270" height="445"/>
 
 #### • `nestbox`
-<img src="./app/src/main/res/raw/screenshots/8nestbox.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/nestbox.png" width="270" height="445"/>
 
 #### • `display all species`
-<img src="./app/src/main/res/raw/screenshots/10display all.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/displayall.png" width="270" height="445"/>
 
 #### • `media display`
-<img src="./app/src/main/res/raw/screenshots/11media screen1.png" width="270" height="445"/>
-<img src="./app/src/main/res/raw/screenshots/12media screen2.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/media1.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/media2.png" width="270" height="445"/>
 
 #### • `share to social media`
 <img src="./app/src/main/res/raw/screenshots/13share to social media.png" width="270" height="445"/>
 
 #### • `species find on map`
-<img src="./app/src/main/res/raw/screenshots/14species find on map.png" width="270" height="445"/>
+<img src="./app/src/main/res/raw/screenshots/findonmap.png" width="270" height="445"/>
 
 #### • `login`
 <img src="./app/src/main/res/raw/screenshots/15_1login.png" width="270" height="445"/>
